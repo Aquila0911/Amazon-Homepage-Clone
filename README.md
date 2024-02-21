@@ -1,5 +1,4 @@
-# AMAZON HOMEPAGE
+# Amazon Website Homepage
 
-My first webdev project!
-<br>
-A clone of the amazon.com homepage using only HTML and CSS.
+My first webdev project!  
+A clone of the amazon.com homepage using pure HTML and CSS only.
